@@ -1,0 +1,6 @@
+Instructions-
+
+1. On landing news not showing and click on "Advance Search" button and select credential fields.
+to show the news and search in the searching box.
+
+2. and click on news heading show in the news content in the right block of the Home page.

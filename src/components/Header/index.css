@@ -1,0 +1,42 @@
+.header {
+    display: flex;
+    box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+    margin-top: 20px;
+    padding: 20px;
+    align-items: center;
+    justify-content: center;
+}
+.logo {
+    position: absolute;
+    left: 20px;
+
+}
+
+
+.heading-1 {
+    font-size: 2rem;
+    color: #3d5afe;
+    font-weight: 700;
+}
+
+.heading-2 {
+    font-size: 2rem;
+    color: #616161;
+    font-weight: 700;
+}
+
+.search-input {
+    width: 400px;
+    border-radius: 10px;
+    /* height: 40px; */
+}
+
+.button {
+    width: 150px;
+    margin-left: 10px;
+}
+
+.news-heading-block {
+    display: flexbox;
+    align-items: flex-start;
+}
